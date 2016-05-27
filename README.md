@@ -8,3 +8,5 @@ Zipwhip expects the Song Title and Artist to be in a particular format:
 ```HTML
 {Song Title}<br /><i>{Artist}</i>
 ```
+
+If you are interested in adding the Now Playing feature to your radio station, please visit [Zipwhip](https://zipwhip.com)
